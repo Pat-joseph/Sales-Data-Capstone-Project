@@ -44,6 +44,14 @@ EDA Involved an initial exploration of sales data such as;
 
 ### Data Analysis
 ---
-This is where we used some basic lines of functions, formula, queries, DAX expressions used during analysis;
+This is where we used some basic lines of functions, formula, queries, DAX expressions during analysis;
+~~~SQL
+SELECT *
+Customer _id
+SUM(Total_Sales ) AS Total purchase
+FROM [dbo]. [SalesData]~~~
+
+
+
 
 
