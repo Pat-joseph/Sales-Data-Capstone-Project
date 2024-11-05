@@ -26,7 +26,7 @@ In the Inintial phase of the Dta cleaning and preparations, we performed the fol
 3. Data Cleaning and formating
 
 ### Exploratory Data Analysis
-EDA Involved an initial exploration of sales data such as:
--1 Using pivot tables to summarize total sales by product, region and month
--2 The use of excel formulas to calculate metrics such as average sales per product and revenue by region
+EDA Involved an initial exploration of sales data such as;
+- 1 Using pivot tables to summarize total sales by product, region and month
+- 2 The use of excel formulas to calculate metrics such as average sales per product and revenue by region
 
