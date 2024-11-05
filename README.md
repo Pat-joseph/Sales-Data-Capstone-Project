@@ -1,6 +1,20 @@
 # Sales-Data-Capstone-Project
 
 ### Project Title: Sales Performance Analysis for Retail Store
+
+
+
+[ Project Overview](#project-overview)
+ [Project Goals and Objectives](#project-goals and objectives)
+ [Tools Used](#tools-used)
+ [Data Cleaning and Preparations](data-cleaning and preparation)
+ [Exploratory Data Analysis](exploratory-data analysis)
+ [Data Analysis](data-analysis)
+ [Data Visualization](data-visualization)
+
+---
+
+  
 ---
 ### Project Overview
 Have you ever wondered how retail stores can optimize their sale in a competitive market?
@@ -21,7 +35,7 @@ We aim to provide actionable insights that can guide strategic decisions in mark
 - SQL- Structured Query Lanugage for Quering of Data
 - PowerBI- Microsoft Power Business Intelligence for data visualization
 
-### Data  Cleaning and Preparations
+### Data Cleaning and Preparations
 ---
 In the Inintial phase of the Dta cleaning and preparations, we performed the following actions;
 1. Data loading and inspection
