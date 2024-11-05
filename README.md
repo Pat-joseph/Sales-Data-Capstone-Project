@@ -11,4 +11,8 @@ This project is designed to uncover patterns in sales performance, helping our r
 Our objective is to analyze sales data to identify top-performing products, understand peak retail periods and evualate customer pereferences.
 We aim to provide actionable insights that can guide strategic decisions in marketing, inentory management, and customer retention.
 
-### 
+### Tools Used
+- Microsoft Excel - for Data Cleaning, Analysis and Visualization
+- SQL- Structured Query Lanugage for Quering of Data
+- PowerBI- Microsoft Power Business Intelligence for data visualization
+
