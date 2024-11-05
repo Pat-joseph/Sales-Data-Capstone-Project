@@ -1,7 +1,7 @@
 # Sales-Data-Capstone-Project
 
 ### Project Title: Sales Performance Analysis for Retail Store
-
+---
 ### Project Overview
 Have you ever wondered how retail stores can optimize their sale in a competitive market?
 Sales performance can make or break a retail store's success, and understanding it helps shape the business's future.
@@ -37,5 +37,8 @@ EDA Involved an initial exploration of sales data such as;
 - 8 Find top 5 customer by total purchase amount
 - 9 Calculate the percentage with no sales in the last quater
 - 10 Creating a dashboard that includes sales overviewing top performing products and regional breadowns
-- 
+
+### Data Analysis
+This is where we used some basic lines of functions, formula, queries, DAX expressions used during analysis;
+
 
