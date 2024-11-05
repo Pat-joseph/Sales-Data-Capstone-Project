@@ -12,7 +12,10 @@ Our objective is to analyze sales data to identify top-performing products, unde
 We aim to provide actionable insights that can guide strategic decisions in marketing, inentory management, and customer retention.
 
 ### Tools Used
-- Microsoft Excel - for Data Cleaning, Analysis and Visualization
+- Microsoft Excel,
+  1. For Data Cleaning
+  2. For Analysis
+  3. For Visualization
 - SQL- Structured Query Lanugage for Quering of Data
 - PowerBI- Microsoft Power Business Intelligence for data visualization
 
