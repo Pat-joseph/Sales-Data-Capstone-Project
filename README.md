@@ -45,6 +45,10 @@ EDA Involved an initial exploration of sales data such as;
 ### Data Analysis
 ---
 This is where we used some basic lines of functions, formula, queries, DAX expressions during analysis;
+
+Excel
+=AVERAGEIF(J2,<"G2",} where G2 contains product name)
+
 ~~~SQL
 SELECT *
 Customer _id
