@@ -29,4 +29,13 @@ In the Inintial phase of the Dta cleaning and preparations, we performed the fol
 EDA Involved an initial exploration of sales data such as;
 - 1 Using pivot tables to summarize total sales by product, region and month
 - 2 The use of excel formulas to calculate metrics such as average sales per product and revenue by region
+- 3 Retrive the total sales for each product category
+- 4 Find the number of sales transactions in each region
+- 5 Find the highest selling product by total sales value
+- 6 Calculate total revenue per product
+- 7 Calculate monthly sales totals for current year
+- 8 Find top 5 customer by total purchase amount
+- 9 Calculate the percentage with no sales in the last quater
+- 10 Creating a dashboard that includes sales overviewing top performing products and regional breadowns
+- 
 
