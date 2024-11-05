@@ -19,4 +19,10 @@ We aim to provide actionable insights that can guide strategic decisions in mark
 - SQL- Structured Query Lanugage for Quering of Data
 - PowerBI- Microsoft Power Business Intelligence for data visualization
 
-### 
+### Data  Cleaning and Preparations
+In the Inintial phase of the Dta cleaning and preparations, we performed the following actions;
+1. Data loading and inspection
+2. Handling missing variables
+3. Data Cleaning and formating
+
+
