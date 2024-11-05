@@ -56,6 +56,7 @@ SUM(Total_Sales ) AS Total purchase
 FROM [dbo]. [SalesData]~~~
 
 
+### Data Visualization
 
 
 
