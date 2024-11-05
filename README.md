@@ -8,10 +8,12 @@ Sales performance can make or break a retail store's success, and understanding 
 This project is designed to uncover patterns in sales performance, helping our retail store understand customer demand, seasonal trends, and how to improve inventory and service.
 
 ### Project Goals and Objectives
+---
 Our objective is to analyze sales data to identify top-performing products, understand peak retail periods and evualate customer pereferences.
 We aim to provide actionable insights that can guide strategic decisions in marketing, inentory management, and customer retention.
 
 ### Tools Used
+---
 - Microsoft Excel {Download Here](https://www.microsoft.com)
   1. For Data Cleaning
   2. For Analysis
@@ -20,12 +22,14 @@ We aim to provide actionable insights that can guide strategic decisions in mark
 - PowerBI- Microsoft Power Business Intelligence for data visualization
 
 ### Data  Cleaning and Preparations
+---
 In the Inintial phase of the Dta cleaning and preparations, we performed the following actions;
 1. Data loading and inspection
 2. Handling missing variables
 3. Data Cleaning and formating
 
 ### Exploratory Data Analysis
+---
 EDA Involved an initial exploration of sales data such as;
 - 1 Using pivot tables to summarize total sales by product, region and month
 - 2 The use of excel formulas to calculate metrics such as average sales per product and revenue by region
@@ -39,6 +43,7 @@ EDA Involved an initial exploration of sales data such as;
 - 10 Creating a dashboard that includes sales overviewing top performing products and regional breadowns
 
 ### Data Analysis
+---
 This is where we used some basic lines of functions, formula, queries, DAX expressions used during analysis;
 
 
